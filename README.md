@@ -1,4 +1,3 @@
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,16 +20,17 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+---
+
 # 👋 Hi there, I'm Md Titumir Anan!
 
 🚀 **Software Engineer | Full-Stack Developer**
 
-As a  passionate **software developer**, I thrive on creating user-friendly web applications that solve real-world problems. With **2 years** of hands-on experience in **full-stack development**, I have honed my skills in designing, building, and optimizing scalable solutions using modern technologies.
+As a passionate **software developer**, I thrive on creating user-friendly web applications that solve real-world problems. With **2 years** of hands-on experience in **full-stack development**, I have honed my skills in designing, building, and optimizing scalable solutions using modern technologies.
 
 Currently, I am focusing on personal projects, contributing to open-source, and expanding my expertise in cutting-edge technologies. My goal is to continuously improve my craft and make meaningful contributions to the tech community.
 
@@ -51,6 +51,7 @@ Currently, I am focusing on personal projects, contributing to open-source, and 
 ---
 
 ## 🛠️ **Tech Stack**
+
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -87,20 +88,3 @@ Currently, I am focusing on personal projects, contributing to open-source, and 
 
 ## 🌱 **Currently Learning**
 - Exploring **Machine Learning** integration with web apps.
-
-
-
-<!--
-**titumiranan123/titumiranan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
