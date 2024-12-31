@@ -28,7 +28,7 @@
 
 # 👋 Hi there, I'm Md Titumir Anan!
 
-🚀 **Software Engineer | Full-Stack Developer**
+🚀 **Software Developer | Full-Stack Developer**
 
 As a passionate **software developer**, I thrive on creating user-friendly web applications that solve real-world problems. With **2 years** of hands-on experience in **full-stack development**, I have honed my skills in designing, building, and optimizing scalable solutions using modern technologies.
 
